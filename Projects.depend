@@ -1,0 +1,16 @@
+
+##
+## The dependency
+##
+
+$(S_OBJECTS_DIR)Prepare.obj: 
+
+
+
+##
+## The dependency
+##
+
+$(D_OBJECTS_DIR)Prepare.obj: 
+
+
